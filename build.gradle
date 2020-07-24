@@ -8,6 +8,7 @@ plugins {
 group = 'com.abhishyam.learn'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '14'
+targetCompatibility = '14'
 
 configurations {
 	compileOnly {
